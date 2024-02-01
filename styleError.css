@@ -18,7 +18,7 @@ svg[height="0"] {
 }
 h1 {
   /* no pseudo needed */
-  --k: 0;
+  --k: 1;
   place-self: center;
   background: linear-gradient(
     90deg,
@@ -37,6 +37,6 @@ h1 {
 }
 @keyframes k {
   to {
-    --k: 1;
+    --k: 0;
   }
 }
