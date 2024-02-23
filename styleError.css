@@ -11,7 +11,7 @@ html {
   height: 100%;
 }
 body {
-  background-image: url('Assets/alan.jpg');
+  background-color: #000;
   background-size: cover;
   background-position: center;
 }
